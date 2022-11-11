@@ -1,0 +1,42 @@
+{
+  "name": "naylachan",
+  "version": "1.1.0",
+  "description": "My Rest Api Free",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylachan/RESTAPI-V1.git"
+  },
+  "keywords": [
+    "simple",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "Rimurubotz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naylachan/RESTAPI-V1/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "requests": "^0.3.0",
+    "base-64": "^1.0.0",
+    "zrapi": "^0.0.6",
+    "base32": "0.0.6",
+    "cors": "^2.8.5",       
+    "jimp": "^0.16.1",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",   
+    "express": "^4.17.1",    
+    "moment": "^2.29.1",     
+    "node-fetch": "^2.6.1",
+    "ssl-express-www": "^3.0.7",
+    "request": "^2.88.2"
+  },
+  "homepage": "https://github.com/naylachan/RESTAPI-V1#readme"
+}
